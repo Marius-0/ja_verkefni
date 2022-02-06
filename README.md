@@ -1,4 +1,4 @@
-# js-verkefni
+# ja-verkefni
 
 ## Project setup
 ```
