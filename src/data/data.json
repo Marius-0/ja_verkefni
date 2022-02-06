@@ -1,0 +1,64 @@
+[
+  {
+    "title": "Matartími",
+    "type": "checkbox",
+    "items": [
+      { "val": "Morgunmatur" },
+      { "val": "Hádegismatur" },
+      { "val": "Kvöldmatur" }
+    ]
+  },
+  {
+    "title": "Tegund matstaðar",
+    "type": "radio",
+    "groupname": "restaurant",
+    "items": [
+      { "val": "Veitingastaður", "default": "true" },
+      { "val": "Kaffihús" },
+      { "val": "Bar" },
+      { "val": "Bakarí" }
+    ]
+  },
+  {
+    "title": "Sveitarfélög",
+    "type": "radio",
+    "groupname": "region",
+    "items": [
+      { "val": "Reykjanesbær" },
+      { "val": "Snæfellsbær" },
+      { "val": "Ísafjarðarbær" },
+      { "val": "Árborg" },
+      { "val": "Reykjavík" },
+      { "val": "Mosfellsbær" },
+      { "val": "Kópavogur" },
+      { "val": "Hafnarfjörður" },
+      { "val": "Vesturbyggð" },
+      { "val": "Fjallabyggð" },
+      { "val": "Fjarðabyggð" },
+      { "val": "Norðurþing" }
+    ]
+  },
+  {
+    "title": "Svæði",
+    "type": "radio",
+    "groupname": "region",
+    "items": [
+      { "val": "Höfuðborgarsvæðið", "default": "true" },
+      { "val": "Reykjanes" },
+      { "val": "Vestfirðir" }
+    ]
+  },
+  {
+    "title": "Landshlutar",
+    "type": "radio",
+    "groupname": "region",
+    "items": [
+      { "val": "Vesturland" },
+      { "val": "Norðurland" },
+      { "val": "NorðurlandE", "name": "Norðurland Eystra" },
+      { "val": "NorðurlandV", "name": "Norðurland Vestra" },
+      { "val": "Austurland" },
+      { "val": "Suðurland" }
+    ]
+  }
+]
